@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="BeginningCPP-Challenges" Database="" Version="10.0.0">
+  <Project Name="Section9-Challenge" Path="Section9-Challenge/Section9-Challenge.project" Active="No"/>
+  <Project Name="Section10-Challenge" Path="Section10-Challenge/Section10-Challenge.project" Active="No"/>
+  <Project Name="Section10-Challenge-Assignment" Path="Section10-Challenge-Assignment/Section10-Challenge-Assignment.project" Active="No"/>
+  <Project Name="Section11-Challenge" Path="Section11-Challenge/Section11-Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Section9-Challenge" ConfigName="Debug"/>
+      <Project Name="Section10-Challenge" ConfigName="Debug"/>
+      <Project Name="Section10-Challenge-Assignment" ConfigName="Debug"/>
+      <Project Name="Section11-Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Section9-Challenge" ConfigName="Release"/>
+      <Project Name="Section10-Challenge" ConfigName="Release"/>
+      <Project Name="Section10-Challenge-Assignment" ConfigName="Release"/>
+      <Project Name="Section11-Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
